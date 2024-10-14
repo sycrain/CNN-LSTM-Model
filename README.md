@@ -2,7 +2,7 @@
 Using terahertz (THz) absorption spectra and a Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) hybrid model to accurately identify these six different nucleobases. The code and data for the network are stored here.
 
 <p align="center">
-  <img width="750" src="CNN-LSTM model/imgs/The overall structure of the proposed framework.png">
+  <img width="750" src="CNN-LSTM model/imgs/The overall structure of the proposed framework..png">
 </p>
 
 The overall structure of the proposed framework for classifying rotational/THz spectra of nucleobases.
